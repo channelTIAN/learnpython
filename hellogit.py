@@ -5,10 +5,11 @@ def SayHello(name):
 	print("this is your first git program\nWelcome!!")
 	
 def Congratulate(name):
-	print(name, "Congratulate!!")
+	print(name, "Congratulation, you start you first step, Come on!!")
 
 if __name__ == "__main__":
 	print("Please input your name:")
 	name = input()
 	SayHello(name)
+	print("\n")
 	Congratulate(name)
