@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # -*- conding: utf-8 -*-
 
 def SayHello(name):
