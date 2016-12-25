@@ -10,6 +10,6 @@ def Congratulate(name):
 if __name__ == "__main__":
 	print("Please input your name:")
 	name = input()
-	SayHello(name)
 	print("\n")
+	SayHello(name)
 	Congratulate(name)
